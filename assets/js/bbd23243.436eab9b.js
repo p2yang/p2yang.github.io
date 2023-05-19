@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[6073],{5593:a=>{a.exports=JSON.parse('{"label":"Google Tag Manager","permalink":"/blog/tags/google-tag-manager","allTagsPath":"/blog/tags","count":2}')}}]);
